@@ -1,1 +1,2 @@
 I'm doing some testing
+I'm modifying a file
