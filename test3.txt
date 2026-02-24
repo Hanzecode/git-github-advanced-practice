@@ -1,2 +1,3 @@
 I'm doing some testing
 I'm modifying a file
+Add something to test stash
